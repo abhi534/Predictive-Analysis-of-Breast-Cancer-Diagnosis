@@ -30,7 +30,7 @@ The project successfully classifies breast cancer tumours with high accuracy, pr
 - seaborn
 
 **Usage:**
-1. Open the Jupyter notebook file: [Breast Cancer Classification.ipynb](https://github.com/abhi534/Predictive-Modeling-Project-Breast-Cancer-Classification/blob/main/Breast%20Cancer%20Classification.ipynb)
+1. Open the Jupyter notebook file: [Breast Cancer Diagnosis.ipynb](https://github.com/abhi534/Predictive-Analysis-of-Breast-Cancer-Diagnosis/blob/main/Breast%20Cancer%20Diagnosis.ipynb)
 
 **Contributing:**
 Contributions are welcome! Feel free to open issues or pull requests for any suggestions or improvements.
